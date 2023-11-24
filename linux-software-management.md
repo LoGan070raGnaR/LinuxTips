@@ -52,6 +52,13 @@ For managing Ruby scripts, you can use the `gem` command. For instance:
 sudo gem install modbus-cli
 ```
 
+**Snap Package Mananger:**
+To manage software packages using the Snap package manager, you can use the `snap` command. For example, to install Sublime Text, use the following command:
+
+```bash
+sudo snap install sublime-text --classic
+```
+
 **Note:**
 
 Always be cautious while managing software, and ensure that you have the necessary permissions to install or remove packages. Regularly updating your package information is good practice to stay current with the available software packages.
